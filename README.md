@@ -13,6 +13,6 @@ A Doctor-Patient Management System where you can manage the Appointments of the 
 
 ### Credentials
   for admin:
-      `Username` : ```a@a.com ```
+      `Username` : ```a@a.com ``` /
       `Password` : ```123```
       
